@@ -1,7 +1,7 @@
 ﻿using System;
 using TPMOD4;
 
-class Program
+class MainKodePos
 {
     static void Main()
     {

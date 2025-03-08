@@ -1,0 +1,15 @@
+E:\smt4\TPMOD4\TPMOD4_2\bin\Debug\net8.0\TPMOD4_2.exe
+E:\smt4\TPMOD4\TPMOD4_2\bin\Debug\net8.0\TPMOD4_2.deps.json
+E:\smt4\TPMOD4\TPMOD4_2\bin\Debug\net8.0\TPMOD4_2.runtimeconfig.json
+E:\smt4\TPMOD4\TPMOD4_2\bin\Debug\net8.0\TPMOD4_2.dll
+E:\smt4\TPMOD4\TPMOD4_2\bin\Debug\net8.0\TPMOD4_2.pdb
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.AssemblyInfoInputs.cache
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.AssemblyInfo.cs
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.csproj.CoreCompileInputs.cache
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.sourcelink.json
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.dll
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\refint\TPMOD4_2.dll
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.pdb
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\TPMOD4_2.genruntimeconfig.cache
+E:\smt4\TPMOD4\TPMOD4_2\obj\Debug\net8.0\ref\TPMOD4_2.dll
