@@ -26,7 +26,7 @@ namespace TPMOD4
 
         public static string GetKodePos(string kelurahan)
         {
-            return kodePosTable.ContainsKey(kelurahan) ? kodePosTable[kelurahan] : "Kode pos tidak ditemukan";
+            return kodePosTable.ContainsKey(kelurahan) ? kodePosTable[kelurahan] : "Kode pos tidak ditemukan!";
         }
     }
 }
